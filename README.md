@@ -4,7 +4,7 @@ This was an assignment for Developing Web Apps and Services. I kind of turned it
 
 Getting Started:
 
-  - Include a profile photo (img-circle).
+  - Include a profile photo (img-circle).
   - Include a second image.
   - Include an an embedded video.
   - Use at least 15 different HTML tags.
@@ -50,7 +50,6 @@ Example: HOME HTML CODE
     <link rel="stylesheet"  type="text/css" href="PerWebCSS.css" />
     
   </head>
-  
   <body>
  
         <section>
@@ -80,6 +79,8 @@ Example: HOME HTML CODE
         <img src="me.jpg" class="img-circle" alt="Liz headshot" height="250" width="30"/>
         
     <p>I'm Liz, a designer, developer, and entrepreneur.</p>
+    
+    <img src="elephant.png"  alt="elephant" height="120" width="120"/>
     
       <footer>
       
